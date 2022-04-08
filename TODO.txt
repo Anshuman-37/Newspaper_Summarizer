@@ -1,0 +1,11 @@
+Things to do 
+
+Get topic wise news 
+Create a transformer to summarise the news 
+Store the summarized news 
+Create the front end for the news 
+
+Things Done
+
+Get the topic wise news
+
