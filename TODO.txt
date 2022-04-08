@@ -1,11 +1,14 @@
 Things to do 
 
-Get topic wise news 
+Get topic wise news
+Print the topic wise news using beautiful soap
+Store the first news and then send it to the transformer  
 Create a transformer to summarise the news 
 Store the summarized news 
 Create the front end for the news 
 
 Things Done
 
-Get the topic wise news
+Get the topic wise news from pygooglenews 
+
 
