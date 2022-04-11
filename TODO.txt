@@ -1,7 +1,8 @@
 Things to do 
  
 Create a container class for the news
-Acquire news using pygooglenews 
+Acquire news using pygooglenews
+Populate the class objects with category title and link 
 Get the main news using the hyperlink and use Newspaper3k to get it 
 Store the news category wise for the number of objects in container
 For each news get a summary using transformer
@@ -9,7 +10,13 @@ Store the summary for each object
 Create a front end displaying the news category, news title and its summary 
 
 Things Done
+
 Created a container class for the news
 Acquires the news using pygoogle news
+Popluated the class objects using category title and link
+Get the main news using the hyper link and then used Newspaper3k to get it
+Stored the news category wise for the number of objects in the container
+
+
 
 
