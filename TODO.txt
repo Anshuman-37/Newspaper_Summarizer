@@ -1,13 +1,15 @@
 Things to do 
-
-Analyse BBC news website
-Get topic wise news
-Print the topic wise news using beautiful soap
-Store the news and then send it to the transformer  
-Create a transformer to summarise the news 
-Store the summarized news 
-Create the front end for the news 
+ 
+Create a container class for the news
+Acquire news using pygooglenews 
+Get the main news using the hyperlink and use Newspaper3k to get it 
+Store the news category wise for the number of objects in container
+For each news get a summary using transformer
+Store the summary for each object 
+Create a front end displaying the news category, news title and its summary 
 
 Things Done
+Created a container class for the news
+Acquires the news using pygoogle news
 
 
