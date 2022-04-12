@@ -6,7 +6,10 @@ Populate the class objects with category title and link
 Get the main news using the hyperlink and use Newspaper3k to get it 
 Store the news category wise for the number of objects in container
 For each news get a summary using transformer
-Store the summary for each object 
+Store the summary for each object
+Using stream lit in google collab 
+Then join the part with streamlit
+Studying about desiging in stream lit 
 Create a front end displaying the news category, news title and its summary 
 
 Things Done
@@ -16,7 +19,8 @@ Acquires the news using pygoogle news
 Popluated the class objects using category title and link
 Get the main news using the hyper link and then used Newspaper3k to get it
 Stored the news category wise for the number of objects in the container
-
-
+For each news we got the summary
+Stored the summary 
+Using streamlit in collab
 
 
