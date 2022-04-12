@@ -22,5 +22,8 @@ Stored the news category wise for the number of objects in the container
 For each news we got the summary
 Stored the summary 
 Using streamlit in collab
+Then joined part with streamlit
+Studied about the design 
+
 
 
