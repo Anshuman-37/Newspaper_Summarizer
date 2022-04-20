@@ -5,7 +5,11 @@ from transformers import pipeline
 from tokenizers import Tokenizer
 from summarizer import Summarizer,TransformerSummarizer
 import streamlit as st
+from stqdm import stqdm
 
+st.title('NewsPaper Summarizer')
+
+st.write('Please Wait for a bit ...... The application is running')
 
 ### container for the news
 class News_article:
@@ -50,6 +54,11 @@ class News_article:
         return  self.category,self.title,self.hyper_link,self.news
 
 
+##
+st.write('Grabbing news...... ')
+##
+
+
 # Google news object
 gn = GoogleNews(country='GB')
 # Topics array
@@ -67,7 +76,7 @@ for i in news_lst:
 
 
 ## Traverse in the news article
-for article in news_lst:
+for article in stqdm(news_lst):
     category = article.get_category()
     news = gn.topic_headlines(category)
     z=0
@@ -94,9 +103,12 @@ for article in news_lst:
     print('Category : ',c,'\n\t Title : ', t,'\n\t Link :',l) 
 
 
+##
+st.write('Grabbing the main news')
+##
 
 ## Now getting the news for the specific link using Newspaper3k 
-for article in news_lst:
+for article in stqdm(news_lst):
     url = article.get_link()
     url_i = newspaper.Article(url="%s"%(url), language='en')
     url_i.download()
@@ -112,10 +124,12 @@ for article in news_lst:
     print('\n\t NEWS : ',n)
     print('\n','---'*50) 
 
-
+##
+st.write('Making the BERT summary')
+##
 
 ## Using BERT model to get the summary
-for article in news_lst:
+for article in stqdm(news_lst):
     n = article.get_news() 
     bert_model = Summarizer()
     bert_summary = ''.join(bert_model(n, min_length=60))
@@ -128,25 +142,31 @@ for i in news_lst:
     print('\n\t Summary : ', summary)
     print('--'*100)
     
+## FOR the sake of testing it
+# ##
+# st.write('Making the GPT-2 summary')
+# ##
 
-## Using GPT-2 model to get teh summary
-for article in news_lst:
-    n = article.get_news() 
-    GPT2_model = TransformerSummarizer(transformer_type="GPT2",transformer_model_key="gpt2-medium")
-    full = ''.join(GPT2_model(n, min_length=60))
-    article.set_summary(str(full)) 
+# ## Using GPT-2 model to get the summary
+# for article in stqdm(news_lst):
+#     n = article.get_news() 
+#     GPT2_model = TransformerSummarizer(transformer_type="GPT2",transformer_model_key="gpt2-medium")
+#     full = ''.join(GPT2_model(n, min_length=60))
+#     article.set_summary(str(full)) 
 
-## Printing the summary done by GPT-2 model
-for i in news_lst:
-    title , summary = i.get_summary()
-    print('\n Title : ', title)
-    print('\n\t Summary : ', summary)
-    print('--'*100)
+# ## Printing the summary done by GPT-2 model
+# for i in stqdm(news_lst):
+#     title , summary = i.get_summary()
+#     print('\n Title : ', title)
+#     print('\n\t Summary : ', summary)
+#     print('--'*100)
 
 
 ## Streamlit display 
 for i in news_lst:
     c = i.get_category()
-    st.header(i)
-    st.subheader('Title')
+    st.header(str(c))
+    t , s = i.get_summary()
+    st.subheader(str(t))
+    st.write(str(s))
 
