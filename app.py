@@ -17,6 +17,9 @@ torch.cuda.empty_cache()
 ## Title for the news
 st.title('NewsPaper Summarizer')
 
+# Variable to check wether we need to show new news or old one
+Flag = 0
+
 # Check wether the application has run already run once today
 if(os.path.isfile('News.pickle')):
 
@@ -29,7 +32,7 @@ if(os.path.isfile('News.pickle')):
     c = c.split(':')
     
     # Check wether 3 hours have been passed from the last time the agent was used 
-    if int(c[1]) > 3:
+    if int(c[1]) < 3:
         for key,value in News_article_dict.items():
             if key == 'News':
                 for i in value:
@@ -37,12 +40,10 @@ if(os.path.isfile('News.pickle')):
                     st.header(i['Category'])
                     st.subheader(str(i['Title']))
                     st.write(str(i['Summary']))
+        Flag = 1
 
-# if(False):
-#     print('Blyat')
-
-
-else:
+## We need to fetch new news
+if Flag == 0:
 
     st.write('Please wait for a bit ...... Fetching new News')
 
