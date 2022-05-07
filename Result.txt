@@ -1,0 +1,492 @@
+######################################### SUMMARY #####################################
+
+
+
+CATEGORIES --
+
+
+A.SPORTS -
+
+
+	1. 
+
+	NEWS  - F1 touches down in US for Miami GP amid undercurrent of controversy - The Guardian'
+		LINK - https://www.theguardian.com/sport/2022/may/06/miami-grand-prix-controversy-residents
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	
+	BERT - 'It has Charles Leclerc playing catch with the Marlins’ Jazz Chisholm Jr, Lewis Hamilton teeing off with Tom Brady and Daniel Ricciardo and Lando Norris chasing James Corden around the paddock in cutoff team shirts. Austin, however, is cool, weird and succeeded in entrenching F1 in the States.) It’s cosmopolitan, seedy and a playground for a fair few celebrities – Hamilton, not least. In an effort to bring more of that Tubbs and Crockett flavor to the race – fittingly sponsored by a cryptocurrency firm, as Miami angles to become the Wall Street of blockchain – organizers added a pool area, two stories of cabanas and a fake yacht marina that looks like something out of Minecraft. Miami Gardens, the largest Florida city with a majority Black population, has been dreading the arrival of this motorsport Super Bowl ever since their attempts to ship the race elsewhere were thwarted three years ago. Last May a recall election was sought to remove council members who voted to bring the race to Miami Gardens. ( What’s more, Miami Gardens residents are locked into this deal for a decade, with F1 president Stefano Domenicali promising to leave “a positive and lasting contribution for the people in the local community”.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'It has Charles Leclerc playing catch with the Marlins’ Jazz Chisholm Jr, Lewis Hamilton teeing off with Tom Brady and Daniel Ricciardo and Lando Norris chasing James Corden around the paddock in cutoff team shirts. But this time, rather than return to Motown or Moo Town, F1 has parked its massive traveling circus here, to the land of white sand beaches, neon lights and withering heat. The closest the series ever got to Miami was Sebring, Florida, a fabled inland racing venue three hours north that served as the backdrop for the one-off 1959 US Grand Prix. Last May a recall election was sought to remove council members who voted to bring the race to Miami Gardens. ( Worse than those lawmakers getting into bed with F1, residents felt as if they had agreed to a bad deal – one that promised only $5m in community benefits and 5% of revenues to the city. What’s more, Miami Gardens residents are locked into this deal for a decade, with F1 president Stefano Domenicali promising to leave “a positive and lasting contribution for the people in the local community”. It’s an undercurrent of controversy that puts Miami squarely in league with Sochi, Saudi Arabia and other dubious F1 crash pads.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Formula One will stage its first ever race in Miami this weekend. The US plays host to a pair of Grand Prix races for the first time since 1984. It is yet another breakthrough moment for a sport that has long struggled to crack the US market. The closest the series ever got to Miami was Sebring, Florida, a fabled inland racing venue three hours north that served as the backdrop for the one-off 1959 US Grand Prix. Last May a recall election was sought to remove council members who voted to bring the race to Miami Gardens. ( Worse than those lawmakers getting into bed with F1, residents felt as if they had agreed to a bad deal – one that promised only $5m in community benefits and 5% of revenues to the city. The race itself will follow a makeshift 5.4km street circuit around the stadium. Michael Jordan, LeBron James and Pharrell are also expected to roll through.What’s more, Miami Gardens residents are locked into this deal for a decade, with F1 president Stefano Domenicali promising to leave “a positive and lasting contribution for the people in the local community”.'
+
+	- - - - - - - - - - - - - - - - - - - - - 
+	
+	ROGUE SCORE - 
+			BERT -  Recall - 0.7916666666666666 Precision - 0.7378640776699029
+			
+			GPT  -  Recall - 0.817708333333333  Precision - 0.7548076923076923
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+
+	2.
+
+	NEWS - Crawley Town FC manager John Yems sacked after allegations of racism towards his own players - Sky News
+		LINK - https://news.sky.com/story/crawley-town-fc-manager-john-yems-sacked-after-allegations-of-racism-towards-his-own-players-12606815
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'Crawley Town FC manager John Yems has been sacked following allegations that he used discriminatory language and behaviour against his own players. Assistant manager Lewis Young will continue to serve as interim manager for the remainder of the current season. Please use Chrome browser for a more accessible video player 0:56 Sky News asks Yems about racism claims On whether they are still investigating the allegations in the wake of Mr Yems' departure, Crawley Town FC said: Our investigation has concluded as it pertains to our evaluation of John Yems' employment status with the club; however, we are continuing to coordinate and work in cooperation with The FA as it continues in its investigation'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'Crawley Town FC manager John Yems has been sacked following allegations that he used discriminatory language and behaviour against his own players. Advertisement'
+
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Seven footballers took their complaints to the professional footballer's association (PFA), which are being investigated by the former player allegedely that the club's changing room was segregated on racial grounds as players from ethnic minorities were made to change separately from their white teammates. The club was recently was bought by an American investors who suspended Mr Yems 12 days ago Crawley Town FC said.Our investigation has concluded as it pertains to our evaluation of John Yems' employment status with the club; however, we are continuing to coordinate and work in cooperation with The FA as it continues in its investigation'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.3564356435643564 Precision - 0.3157894736842105
+			
+			GPT  -  Recall - 0.0792079207920792 Precision - 0.3478260869565217
+	
+	 - - - - - - - - - - - - - - - - - - - - ----------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	 
+	3. 
+
+	NEWS - 'Declan Rice accuses referee of corruption in tunnel as video captures West Ham star saying ‘You’ve pro... - talkSPORT'
+		LINK - https://talksport.com/football/1102871/declan-rice-referee-corruption-tunnel-video-west-ham-europa-league-eintracht-frankfurt/ 
+	
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	BERT - 'West Ham boss David Moyes believes Declan Rice’s angry outburst at the referee shows that his players care. While there were few complaints about Cresswell’s dismissal, Rice suggested ‘every decision’ went the home side way in a post-match interview – and now the midfielder risks a UEFA investigation after his behaviour towards the referee in the tunnel was captured on film. We felt as if we had been treated quite badly overall and that is what happens.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'West Ham boss David Moyes believes Declan Rice’s angry outburst at the referee shows that his players care. Getty 4 Rice was bitterly disappointed at full-time and his anger spilled over in the tunnel. Fox Sports 4 Video footage shows the midfielder launching an explosive rant at the refereeRice was filmed approaching the official in the tunnel after the 1-0 second-leg defeat ended the Hammers’ hopes of European glory. “The sending off was probably a sending off but some of the other decisions were poor tonight,” Rice said.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'West Ham lost 1-0 to Eintracht Frankfurt in the champions league on Tuesday. Rice every decision went to home side in a post-match invterview . Midfielder Declan Rice was filmed accusing referee Jesus Gil of corruption . Moyes believes Rice's outburst shows that his players care . rice risks a UEFA investigation after his behaviour in the tunnel was captured on film.'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.46774193548387094 Precision - 0.37662337662337664
+			
+			GPT  -  Recall - 0.3387096774193548  Precision - 0.23863636363636365
+	
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	4. 
+
+	NEWS - 'Liverpool poached two masterminds from Spurs and Antonio Conte is still paying the price - Liverpool Echo' 
+		LINK - https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-poached-spurs-antonio-conte-23884360 
+
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'Antonio Conte has been full of praise for Liverpool this week. "We know that in this moment, it is difficult to play against Liverpool," he said. " READ MORE: Man City let £26m transfer who could have stopped Champions League exit join Liverpool for free
+
+READ MORE: Jose Mourinho reveals who he is supporting in Champions League final between Liverpool and Madrid
+"When Liverpool started this work with Jurgen, they were a top team but not in a way they are now," he said. " All official Liverpool FC club merchandise, including the new shirt, can also be purchased at nike.com/liverpool-fc
+Over the past five years, Manchester United have the biggest net spend in England's top-flight on around £479m, followed by Man City on £424m and Arsenal on £334m. Many of the incomings purchased by the Reds have been funded by outgoings. " This club - since I am here and before - spends what we earn," Klopp once said. " Ian Graham, who is now Liverpool's Head of Research and is labelled as the club's 'stats man', was once an external consultant who worked with Spurs to complete one-off projects and provide scouting advice.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'Antonio Conte has been full of praise for Liverpool this week. Speaking ahead of Tottenham Hotspur's clash with the Reds on Saturday night, the Spurs boss described his upcoming opponents as one of the best teams in the world. "We know that in this moment, it is difficult to play against Liverpool," he said. " His admiration for the job that Klopp has done on Merseyside is clear, but the Spurs boss seems to have overlooked Liverpool's spending habits throughout their rise to the pinnacle of the sport. All official Liverpool FC club merchandise, including the new shirt, can also be purchased at nike.com/liverpool-fc
+'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Antonio Conte has been full of praise for his current club, the reds, this weekend.Liverpool have spent money in order to acquire their players, but not as much as their strength on the pitch would suggest. Over the past five years, Manchester United have the biggest net spend in England's top-flight on around £479m, followed by Man City on £424m and Arsenal on £334mthe 52-year-old described his upcoming opponents as one of the best teams in the world. He said he would agree to sign a longer deal at the club if he was sure they could follow a similar path to the former Germany boss.'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.4056603773584906 Precision - 0.22395833333333334
+			
+			GPT  -  Recall - 0.2735849056603773 Precision - 0.27884615384615385
+	
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. TECHNOLOGY-
+	
+	1. 
+
+	NEWS - "Outriders didn't break even throughout 2021 - Eurogamer.net"
+		LINK - https://www.eurogamer.net/outriders-didnt-break-even-throughout-2021
+
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	BERT - 'A new report has revealed that, despite a strong start, Outriders failed to make a profit in 2021. "Since the game was completed and placed on the market (which happened on April 1st 2021), the Company has been entitled to royalties payable if specific proceeds (as defined in the agreement) from its sales ensure that the publisher recovers a predetermined level of costs incurred in connection with the development, promotion and distribution of the game. Out of the blue on Monday, the publisher announced it had entered into a deal with Embracer Group to sell off its western studios and over 50 intellectual properties for just $300m.
+'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'A new report has revealed that, despite a strong start, Outriders failed to make a profit in 2021. But, even in the several months following that initial statement, no royalty fee ended up coming People Can Fly's way in 2021. "Since the game was completed and placed on the market (which happened on April 1st 2021), the Company has been entitled to royalties payable if specific proceeds (as defined in the agreement) from its sales ensure that the publisher recovers a predetermined level of costs incurred in connection with the development, promotion and distribution of the game.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'A new report has revealed that outriders failed to make a profit in 2021 . the report comes from developer People Can Fly . out of the blue on Monday, the publisher announced it had entered into a deal with Embracer Group. Group received no royalties from the publisher for the period to December 31st 2021, which means that as at the reporting date net proceeds from the sale of Outriders were insufficient to recover. Despite this, Outriders is one of the few IPs that Square Enix has not parted ways with .even in the several months following that initial statement, no royalty fee ended up coming People Can Fly's way in 2021.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	ROGUE SCORE - 
+			BERT -  Recall - 0.30357142857142855 Precision - 0.3177570093457944
+			
+			GPT  -  Recall - 0.33035714285714285 Precision - 0.38144329896907214
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+
+	2.
+
+	NEWS - "Wordle 321 May 6 hints: Struggling with today's Wordle? Three CLUES to help with answer - Express" 
+		LINK - https://www.express.co.uk/entertainment/gaming/1606103/Wordle-321-May-6-hints-clues-answer-struggling-help-daily-today-answer
+
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'The perfect game to play over breakfast or on the commute to or from work, Wordle tasks players with figuring out a five letter word in six attempts. If the tile turns yellow, the letter you guessed is in the word, just not in the correct position.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'The perfect game to play over breakfast or on the commute to or from work, Wordle tasks players with figuring out a five letter word in six attempts. If the tile turns yellow, the letter you guessed is in the word, just not in the correct position.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - ''
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall -0.25000010101000334 Precision -0.3404255319148936
+			
+			GPT  -  Recall -0.25000010101000334 Precision -0.3404255319148936
+	
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	3. 
+
+	NEWS - 'Apple, Google and Microsoft agree to support passwordless sign in - Daily Mail'
+		LINK - https://www.dailymail.co.uk/sciencetech/article-10786461/Apple-Google-Microsoft-agree-support-passwordless-sign-ins.html
+
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'Apple, Google and Microsoft have announced a joint effort to support a new type of online sign-in which could replace passwords with more secure alternatives. Among the fields affected, technology, finance, construction, healthcare, and hospitality were shown to experience the most security incidents. The list revealed that '123456', was the most popular password among CEOs, having been used by 29,401 executives across the 290 million data breaches. ' Grahame Williams, identity and access management director at defence firm Thales, said passwords were 'becoming increasingly insecure' and 'easily hacked'. 'But at least Microsoft, Google and Apple are attempting to pave the way to make account access for secure as well as convenient,' he told DailyMail.com, adding that it 'isn't something that can be achieved overnight but it highlights that more needs to be done when it comes to people's password security.' Moore said passwords play a big part in account security as they can be easily changed when compromised and don't directly rely on unique device identifiers such as a smartphone or watch. 'Passwords will continue to be part of our lives as we make this transition, so we'll remain dedicated to making conventional sign-ins safer and easier through our existing products and continued innovation.' 'Just as we design our products to be intuitive and capable, we also design them to be private and secure,' said Kurt Knight, Apple's Senior Director of Platform Product Marketing.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'Apple, Google and Microsoft have announced a joint effort to support a new type of online sign-in which could replace passwords with more secure alternatives. Stock image
+
+The tech giants said the new system would also allow people to use a fingerprint or facial scan authentication on their smartphone as a way of signing in on another device nearby, regardless of which operating system or browser they were running. This would reduce the need for people to remember a wide range of username and password combinations to log in to different services, they said. Apple, Google and Microsoft said they hoped to start making these capabilities available across their platforms over the coming year. The technology giants agreed to support a common passwordless sign-in which has been created by industry body the Fido Alliance and World Wide Web Consortium. New research by NordPass has revealed the most popular passwords used by CEOs – with '123456' and 'password' continuing to top the list. Password' was next, with 22,511 uses, followed by '12345' (11,876 uses), '123456789' (10,988 uses) and 'qwerty' (9,738 uses). 'But at least Microsoft, Google and Apple are attempting to pave the way to make account access for secure as well as convenient,' he told DailyMail.com, adding that it 'isn't something that can be achieved overnight but it highlights that more needs to be done when it comes to people's password security.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Apple, Google and Microsoft, the technology giants agreed to support a common password-less sign-in. they hoped to start making these capabilities available across their platforms over the coming yearIt has been created by industry body the Fido Alliance and the world wide web. Experts say it will allow people to access and use their new password-free credentials – known as a passkey – across different devices. This will prevent people from having to sign in to every account again on each device, reducing the risk of using easily guessable passwords. at least they pave the way to make account access for secure  support a common passwordless sign-in.'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.28703703703703703 Precision - 0.13247863247863248
+			
+			GPT  -  Recall - 0.5092592592592593  Precision - 0.23809523809523808
+	
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	4. 
+
+	NEWS - 'Microsoft open-source 3D Movie Maker by popular demand - Rock Paper Shotgun'
+		LINK - https://www.rockpapershotgun.com/microsoft-have-open-sourced-3d-movie-maker-by-popular-demand
+
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	BERT - 'In a curious bit of historical preservation, Microsoft have released the source code for 3D Movie Maker, a fondly remembered piece of software from 1995. This comes amidst a wave of source code releases for Argonaut Games' BRender engine, which was also used by games including Carmageddon 1 & 2, Star Fox, Privateer 2: The Darkening, Queen: The eYe, and and Croc. This could lead to fan-updated versions which are easier to run on modern computers. The first hope with source code releases is that fans will be able to update the engine so software can easily run on modern systems without faff, workarounds, and weird fixes.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'In a curious bit of historical preservation, Microsoft have released the source code for 3D Movie Maker, a fondly remembered piece of software from 1995. You might best know it from Jerma985's oft-memed Rat Movie (pictured ↑ above). Created by Argonaut, the BRender 3D engine lived a long life, with the first game using it coming out in 1984 and the last being, depending on how generous you feel, either 2004's Catwoman movie tie-in or the cancelled Star Fox 2 finally released in 2017. It's one of those engines which was upgraded a lot over time.
+'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - ' Microsoft have released the source code for 3D Movie Maker, a fondly remembered piece of software from 1995 . this comes amidst a wave of source code releases for Argonaut Games' BRender engine . it was also used by games including carmageddon 1 & 2, starfox, privateer 2: the darkening, and and Croc .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall- 0.6481481481481481 Precision - 0.32710280373831774
+			
+			GPT  -  Recall - 0.407407407407407 Precision - 0.22916666666666666
+	
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+C.BUSINESS-
+	
+	1. 
+
+	
+	NEWS - "Petrol giant EG Group swoops for stricken McColl's as administrators called in - Sky News"
+		LINK - https://news.sky.com/story/petrol-giant-eg-group-swoops-for-stricken-mccolls-as-administrators-called-in-12606704
+
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'The billionaire brothers behind one of Britain's biggest fuel retailing empires are close to sealing a last-ditch swoop on McColl's Retail Group that could lead to thousands of job losses. McColl's lenders, which include the taxpayer-backed NatWest Group, are said to have demanded the immediate repayment of their loans, to which EG is said to have agreed. Image: Mohsin Issa (L) and Zuber Issa (R) bought Asda with TDR Capital in early 2001
+
+The decision by McColl's to call in administrators will have implications for the company's pension scheme members, and may prompt questions about why a solvent alternative proposed by Morrisons was not accepted. Sky News reported in February that McColl's was scrambling to secure new funding that would allay concerns about its future. Image: Morrisons, an existing partner, has also been in the frame for a rescue deal
+
+It raised £30m from shareholders in a cash call just eight months ago. "For thousands of hardworking people and pensioners, this is a very disappointing, damaging and unnecessary outcome."'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'The billionaire brothers behind one of Britain's biggest fuel retailing empires are close to sealing a last-ditch swoop on McColl's Retail Group that could lead to thousands of job losses. Image: Mohsin Issa (L) and Zuber Issa (R) bought Asda with TDR Capital in early 2001
+
+The decision by McColl's to call in administrators will have implications for the company's pension scheme members, and may prompt questions about why a solvent alternative proposed by Morrisons was not accepted. McColl's is an important partner of Morrisons, operating hundreds of smaller shops under the Morrisons Daily brand. "For thousands of hardworking people and pensioners, this is a very disappointing, damaging and unnecessary outcome." EG could not be reached for comment while NatWest declined to comment. A spokesperson for the Trustee of the McColl's Pension Schemes said: "The pension schemes are significant stakeholders in the company, and the trustees call on all potential bidders to make clear that they will respect the pension promises made to the 2,000 members by McColl's and its subsidiaries, and will not seek to break the link between the schemes and the company."'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'EG Group is putting the finishing touches to a takeover of McColl's Retail Group. The decision by McColl's to call in administrators will have implications for the company's pension scheme members, and may prompt questions about why a solvent alternative proposed by Morrisons was not accepted. McColl's is an important partner of Morrisons, operating hundreds of smaller shops under the Morrisons Daily brand.. the deal would usurp a rival rescue proposal from Morrisons, the supermarket chain . appoints pricewaterhousecoopers (pwc) as administrator, confirming a report . it is unclear how many of the company's 16,000-strong workforce would keep their jobs ."'
+
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	ROGUE SCORE - 
+			BERT -  Recall - 0.39603960396039606 Precision - 0.25952095808383234
+			
+			GPT  -  Recall - 0.43564356435643564 Precision - 0.2391304347826087
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ----------------------- - - - - - - - - - - - - - - - - - - - -
+
+	2.
+
+	NEWS - 'Rishi Sunak urged to slash taxes to stave off recession - The Times'
+		LINK - https://www.thetimes.co.uk/article/chancellor-rishi-sunak-urged-to-slash-taxes-to-stave-off-recession-wlck0c9kn
+
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'Ministers called on the chancellor to cut VAT and corporation tax, as the Bank of England warned that inflation could rise to more than 10 per cent this year
+
+Rishi Sunak is under mounting pressure from cabinet colleagues to implement radical tax cuts after the Bank of England warned that the economy could tip into recession next year. Sponsored
+
+Households will face one of the most significant reductions to take-home pay since records began in 1964, with average relative income falling by £1,200 this year because of rising inflation.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'Ministers called on the chancellor to cut VAT and corporation tax, as the Bank of England warned that inflation could rise to more than 10 per cent this year
+
+Rishi Sunak is under mounting pressure from cabinet colleagues to implement radical tax cuts after the Bank of England warned that the economy could tip into recession next year. It forecast that inflation, which rose to 7 per cent in March, would hit a 40-year high of 10.25 per cent this autumn and that the economy would shrink next year.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'The Bank of England raised interest rates by 0.25 percentage points to 1% . it forecast inflation would hit a 40-year high of 10.25 per cent this autumn . inflation rose to 7% in march and the economy would shrink next year . sunak is under mounting pressure from cabinet colleagues to implement radical tax cuts . the bank of england forecasts that the economy could tip into recession .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT - Recall - 0.5857142857142857  Precision - 0.4659090909090909
+			
+			GPT  - Recall - 0.44285714285714284 Precision - 0.3563218390804598
+	
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	3. 
+
+	NEWS - 'FTSE 100 falls as recession fears hit markets - The Telegraph''
+		LINK - https://www.telegraph.co.uk/business/2022/05/06/markets-live-latest-coronavirus-news-pound-euro-ftse-1007/
+
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	BERT - 'There are early signs the UK's housing boom could finally be coming to an end. MSCI's broadest index of Asia-Pacific shares outside Japan shed 2.7pc and fell to its lowest level since March 16, the day when Chinese vice premier Liu He boosted shares by pledging to support markets and the economy.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'There are early signs the UK's housing boom could finally be coming to an end. MSCI's broadest index of Asia-Pacific shares outside Japan shed 2.7pc and fell to its lowest level since March 16, the day when Chinese vice premier Liu He boosted shares by pledging to support markets and the economy.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'The blue-chip index tumbled 1.5pc with most sectors losing ground.comes a day after the bank of England warned inflation will jump above 10pc on March 16. It also forecast a contraction in the economy in 2023, fuelling fears of a recession. Jitters took hold across Europe, with dax and the french CAC 40 down 1.6pc and 1.7pc respectively.'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.1016949152542373 Precision - 0.11538461538461539
+			
+			GPT  -  Recall - 0.1016949152542373 Precision - 0.11538461538461539
+	
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	4. 
+
+	NEWS - 'BA owner says recovery of business travel will drive return to profit - The Guardian'
+		LINK - https://www.theguardian.com/business/2022/may/06/ba-owner-says-recovery-of-business-travel-will-drive-return-to-profit-iag
+
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'British Airways’ owner has said a recovery in business travel and trips by wealthy passengers will drive a return to profitability this year. International Airlines Group (IAG), which also owns Iberia and Aer Lingus, said that while Omicron had a short-term impact on bookings in January and February, the easing of coronavirus-related travel restrictions had improved travel demand in the first quarter, particularly in the UK. We expect to be profitable from the second quarter onwards and for the full year. North Atlantic capacity will be close to fully restored in the third quarter.” “We’ve seen very positive trading conditions in the first quarter, with travel demand continuing to increase in almost all of our key markets around the world,” said Keith Barr, the chief executive of IHG. “'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'British Airways’ owner has said a recovery in business travel and trips by wealthy passengers will drive a return to profitability this year. “Demand is recovering strongly in line with our previous expectations,” said Luis Gallego, the chief executive of IAG. “ Sign up to the daily Business Today email or follow Guardian Business on Twitter at @BusinessDesk
+
+The resurgence in demand is also taking place in the hotel sector, with the revenues of InterContinental Hotels Group, the owner of chains including Crowne Plaza and Holiday Inn, up 61% year on year '
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'British Airways’ eased of coronavirus-related travel restrictions has improved travel demand. They e xpect to be profitable from the second quarter onwards and for the full year. Premium leisure continues to be strongest performing segment. Business travel is at its highest level since start of the pandemic . shares fell 8% on friday, making IAG the biggest faller on the FTSE 100 . resurgence in demand is also taking place in the hotel sector .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.32046511621233335 Precision - 0.18604651162790697
+			
+			GPT  -  Recall - 0.25333333333333335 Precision - 0.20652173913043478
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+D.SCIENCE
+	
+	1. 
+
+	NEWS - 'SpaceX brings four astronauts home from International Space Station amid Russian non-cooperation threats - Sky News'
+		LINK - https://news.sky.com/story/spacex-brings-four-astronauts-home-from-international-space-station-amid-russian-non-cooperation-threats-12606511
+
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'In another successful journey for SpaceX four astronauts returned home from the International Space Station (ISS) in the early hours of this morning, splashing down in the Gulf of Mexico. But sanctions imposed as a result of Russia's invasion of Ukraine have changed that calculus. The space station will still be travelling so fast that it will begin to heat and cast off debris in a path behind it. Point Nemo has been called a spacecraft cemetery because - as the point on the Earth most distant from any land - it is where decommissioned spacecraft are typically aimed when returning to the Earth.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'In another successful journey for SpaceX four astronauts returned home from the International Space Station (ISS) in the early hours of this morning, splashing down in the Gulf of Mexico. Recent comments from Roscosmos head Dmitry Rogozin have prompted concerns about the immediate future of the project. Image: The 'spacecraft cemetery' Point Nemo as seen on Google Earth. Pic: Google Crashing the ISS into a 'spacecraft cemetery''
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Three americans and one german astronaut went off-world six months ago in another succesful journey for SpaceX from the International Space Station (ISS) there were no questions about ongoing cooperation between the US and Russian teams maintaining the orbital outpost . but recent comments from Roscosmos head Dmitry Rogozin have prompted concerns about the immediate future of the project . despite hostilities on earth the astronauts have not reported any difficulties at Point Nemo in the heat and cast off debris'
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	ROGUE SCORE - 
+			BERT -  Recall - 0.2716049382716049 Precision - 0.21153846153846154
+			
+			GPT  -  Recall - 0.3333333333333333 Precision - 0.40298507462686567
+
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+
+	2.
+
+	NEWS - 'Meteor shower peaks tonight: Best time to see Eta Aquarid meteors - and how to watch it - Express'
+		LINK - https://www.express.co.uk/news/science/1606012/Meteor-shower-peak-tonight-Eta-Aquarid-how-to-watch-evg
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+
+	BERT - 'SUBSCRIBE Invalid email. Sign up HERE for science breakthroughs in health, business and more that matter. We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'SUBSCRIBE Invalid email Sign up HERE for science breakthroughs in health, business and more that matter'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'astronomers have predicted the Eta Aquarid meteors will pass through the atmosphere above the UK tonight . the meteors can cause up to 50 meteors an hour as their peak falls between may 5 and 6 . meteors are the product of Halley's comet, a celestial object that passes the Earth once a lifetime on its 75-year orbit of the Sun .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.11290322580645161 Precision - 0.14583333333333334
+			
+			GPT  -  Recall - 0.04838709677419355 Precision - 0.1875
+	
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	3. 
+
+	NEWS - "Scientists baffled as two mysterious 'continent-sized' blobs found inside Earth's core - Express"
+		LINK - https://www.express.co.uk/news/science/1606365/science-news-continent-sized-mystery-blobs-found-inside-earth-geology
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	BERT - 'Long Valley supervolcano: Geologists wonder if it's 'waking up'
+
+SUBSCRIBE Invalid email Sign up HERE for science breakthroughs in health, business and more that matter We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. Until now, scientists have known very little about these blobs, why they exist, and why they have odd shapes of varying heights. These blobs, which sit below West Africa and the Pacific Ocean, have confounded seismologists for decades. READ MORE: Scientists baffled after finding to bizarre 'blobs' deep inside Earth
+
+The moon was formed when Theia struck a primitive Earth
+
+Trending
+
+Edward Garnero, a seismologist at ASU Tempe who was not involved in the work, noted that this is the first time any researcher has made a serious case for this theory "I think it's completely viable until someone tells me it's not."
+'
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'Long Valley supervolcano: Geologists wonder if it's 'waking up'
+
+SUBSCRIBE Invalid email Sign up HERE for science breakthroughs in health, business and more that matter We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. Until now, scientists have known very little about these blobs, why they exist, and why they have odd shapes of varying heights. Mystery ‘continent sized’ blobs under the Earth may be remains of planetary collision
+
+3D view of the blob in Earth's mantle beneath Africa
+
+While experts have theorised that these blobs were by crystallising out of the depths of Earth's primordial magma ocean, Mr Qian believes that lumps are actually the remains of Theia itself.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'A new study may offer insights into the origins of large low-shear-velocity provinces. these blobs are massive, each the size of a continent, and 100 times taller than Mount Everest . scientists believe these anomalies are actually the remains of Theia, a protoplanet that struck the Earth 4.5 million years ago .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT -  Recall - 0.1509433962264151 Precision - 0.055944055944055944
+			
+			GPT  -  Recall - 0.2307692307692307 Precision - 0.09230769230769231
+	
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+	
+	4. 
+
+	NEWS - 'Huge volume of water detected under Antarctic ice - BBC'
+		LINK - https://www.bbc.co.uk/news/science-environment-61337864
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	
+	BERT - 'The key question being asked is: to what extent can the groundwater add to or subtract from the network of freshwater rivers and lakes just under the ice, to aid lubrication? And the inference in the measured changes in the saltiness of the upper part of the ground reservoir is that there is exchange.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	GPT - 'The key question being asked is: to what extent can the groundwater add to or subtract from the network of freshwater rivers and lakes just under the ice, to aid lubrication? And the inference in the measured changes in the saltiness of the upper part of the ground reservoir is that there is exchange.'
+
+	- - - - - - - - - - - - - - - - - - - - -
+
+	Personal summary - 'Water detected below the Whillans Ice Stream, but its presence is likely replicated elsewhere across the white Continent. But to what extent can the groundwater add to or subtracted from the network of freshwater riverstransfer of water into or out of this deep reservoir has the potential therefore to either slow down or speed up ice flow . if you could squeeze out all that water and pool it on the surface, the water would range anywhere from about 220m in depth all the way up to 820m .'
+	
+	- - - - - - - - - - - - - - - - - - - - -
+
+	ROGUE SCORE - 
+			BERT - Recall - 0.19101123595505617 Precision - 0.3148148148148148
+			
+			GPT  - Recall - 0.19101123595505617 Precision - 0.3148148148148148
+	
+
+	- - - - - - - - - - - - - - - - - - - - - ---------------------- ###################################### ---------------------- - - - - - - - - - - - - - - - - - - - - -
+
+
+
