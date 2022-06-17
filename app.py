@@ -144,11 +144,14 @@ if Flag == 0:
 
     ## Now getting the news for the specific link using Newspaper3k 
     for article in stqdm(news_lst):
-        url = article.get_link()
-        url_i = newspaper.Article(url="%s"%(url), language='en')
-        url_i.download()
-        url_i.parse()
-        text = url_i.text
+        try:
+            url = article.get_link()
+            url_i = newspaper.Article(url="%s"%(url), language='en')
+            url_i.download()
+            url_i.parse()
+            text = url_i.text
+        except:
+            text = "Sorry unable to grab news"
         article.set_news(text)
 
 
